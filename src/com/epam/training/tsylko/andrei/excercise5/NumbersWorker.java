@@ -2,7 +2,7 @@ package com.epam.training.tsylko.andrei.excercise5;
 
 
 public class NumbersWorker {
-    public static final int POSITIVE = 3;
+    public static final int POSITIVE = 2;
     public static final int NEGATIVE = 4;
 
     public static double[] raisingNumbersToPower(double[]array){
